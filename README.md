@@ -17,7 +17,7 @@
   
 
 
-[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-Quattrochi)](https://github.com/anuraghazra/github-readme-stats)
+[![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-Quattrochi)](https://github.com/Tim-Quattrochi/github-readme-stats)
 
 
 [website]: ["Coming soon!"](https://www.linkedin.com/in/timquattrochi/)
