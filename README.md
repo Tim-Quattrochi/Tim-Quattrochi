@@ -20,7 +20,7 @@
 [![Tim's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tim-Quattrochi)](https://github.com/Tim-Quattrochi/github-readme-stats)
 
 
-[website]: ["Coming soon!"](https://www.linkedin.com/in/timquattrochi/)
+[website]: ["Coming soon!"](http://www.timquattrochi)
 
 [twitter]: https://twitter.com/tjq9
 [linkedin]: https://www.linkedin.com/in/timquattrochi/
