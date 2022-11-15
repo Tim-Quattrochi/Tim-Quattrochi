@@ -20,7 +20,6 @@
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Tim-Quattrochi?cardType=github&theme=react)](https://git.io/awesome-stats-card)
 
 
-My website: (http://www.timquattrochi.com)
 
 
 [twitter]: https://twitter.com/tjq9
