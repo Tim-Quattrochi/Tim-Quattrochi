@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-I love MERN (MongoDB, Express, React, Nodejs) and am learning and working everyday!
+Thank you for checking out my GitHub. I love being a software developer. The problems I get to solve everyday keep me driven. I also love talking and collaborating with other developers!
 
 * 🌍  I'm based in Fruitland Park, Florida
 * 🖥️  See my portfolio at [Tim's Portfolio](http://www.timquattrochi.com)
